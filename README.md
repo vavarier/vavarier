@@ -11,7 +11,7 @@ typedef struct  sstudent
 ```
 
 <h1 align="center">Hi 👋, I'm Nouri valentin</h1>
-<h3 align="center">learning dev in first years</h3>
+<h3 align="center">first year students</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
